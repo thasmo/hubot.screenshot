@@ -1,0 +1,11 @@
+{
+  "name": "hubot-screenshot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.coffee",
+  "author": "Thomas Deinhamer",
+  "license": "MIT",
+  "dependencies": {
+    "pageres": "git://github.com/sindresorhus/pageres.git#master"
+  }
+}
