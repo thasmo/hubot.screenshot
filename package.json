@@ -6,6 +6,6 @@
   "author": "Thomas Deinhamer",
   "license": "MIT",
   "dependencies": {
-    "pageres": "git://github.com/sindresorhus/pageres.git#master"
+    "pageres": "0.3.0"
   }
 }
